@@ -1,3 +1,5 @@
+// 3
+
 while (true) {
     let word = prompt("Write a word");
     if (word == "країна"){
@@ -28,6 +30,7 @@ while (true) {
     }
 }
 
+// 4
 let list = [1, 2, 3, 4, 5];
 let All_list = [];
 
