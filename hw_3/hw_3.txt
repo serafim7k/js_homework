@@ -1,0 +1,3 @@
+1. a) function myFunction() {}
+2. a) myFunction()
+3. a) return
